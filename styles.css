@@ -33,7 +33,7 @@ header{
 }
 
 nav{
-    /* max-width: 1140px; */
+    max-width: 1140px;
     width: 71%;
     border: none;
     margin: 0 auto;
@@ -67,7 +67,6 @@ nav .menu li button{
 }
 
 #banner{
-    border: 1px solid red;
     margin: 47px 38px 0px 230px;
     display: flex;
     justify-content: space-between;
